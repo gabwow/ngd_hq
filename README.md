@@ -31,3 +31,5 @@ This hackathon will feature:
 
 That said, if you want to go all out, dinner and breakfast will be provided. 
 
+## APIs (suggestions welcome):
+* [MongoDB](http://docs.mongodb.org/manual/)
