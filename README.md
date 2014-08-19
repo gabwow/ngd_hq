@@ -23,3 +23,11 @@ This hackathon will feature:
 * Large-scale-data masterminds
 * Researchers familiar with next-gen data
 
+## FAQ:
+
+*Do I need to know anyone there?* Nope. We'll briefly present different ideas and then form groups based on mutual interests. If there is someone that you already know you do want to work with, that's great too.
+
+*Do I need to be there for all of this?*  No. This is as intense as you choose to make it. Ideally you'd be there at noon on Friday, but if you can't get there by then, we ask for you to be there at 6pm on Friday, just so everybody can get into a group. We also are strongly encouraging a 2pm partnered code-review. Ideally, this would be done in person, but if people want to do it through something like google hangout, that's fine too. 
+
+That said, if you want to go all out, dinner and breakfast will be provided. 
+
