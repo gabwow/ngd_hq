@@ -9,7 +9,7 @@ Notes for the NextGen Data Hackathon at MSKCC
 
 **Where**: Memorial Sloan Kettering Zuckerman Building
 
-**Why**: The core technologies behind next-generation sequencing are now somewhat stable, but there is still room for improvement. There are efforts (e.g. SeqPig, Jeff Hammerbacher's work at Mount Sinai) for large-scale transformations in data handling, and there are still many smaller problems that crop up in real world analysis (e.g. there really is no common vcf). This hackathon will look at analysis bottlenecks caused by data representation, and work on cool applications to solve them.
+**Why**: The core technologies behind next-generation sequencing are now somewhat stable, but there is still room for improvement. There are efforts (e.g. Hadoop for bioinformatics) for large-scale transformations in data handling, and there are still many smaller problems that crop up in real world analysis (e.g. there really is no common vcf). This hackathon will look at analysis bottlenecks caused by data representation, and work on cool applications to solve them.
 
 This hackathon will feature:
 
