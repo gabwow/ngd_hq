@@ -35,3 +35,4 @@ That said, if you want to go all out, dinner and breakfast will be provided.
 * [MongoDB](http://docs.mongodb.org/manual/)
 * [SeqPig](http://seqpig.sourceforge.net/)
 * [NVBio](https://github.com/NVlabs/nvbio)
+* [Adam](https://github.com/massie/adam)
