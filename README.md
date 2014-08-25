@@ -36,3 +36,39 @@ That said, if you want to go all out, dinner and breakfast will be provided.
 * [SeqPig](http://seqpig.sourceforge.net/)
 * [NVBio](https://github.com/NVlabs/nvbio)
 * [Adam](https://github.com/massie/adam)
+
+## Location and Schedule
+Zuckerman Research Center
+417 East 68th Street, between 1st Ave and York
+
+Friday 12 pm, 11th floor conference room (Z1170):
+
+Brief discussion of data issues and people propose projects
+
+Friday 6pm, 11th floor conference room (Z1170):
+
+New arrivals catch up on what’s going on
+
+Friday 7:30 pm, 4th floor conference room (Z466):
+
+Dinner
+
+
+Saturday 12am, 4th floor conference room (Z466):
+
+Snacks
+
+Saturday 8am, 4th floor conference room (Z466):
+
+Breakfast
+
+(lunch not provided)
+
+Saturday 2pm, 4th floor and 11th floor conference room:
+
+Partnered code review
+
+Saturday 7pm, 11 floor conference room (Z1170):
+
+Final code submission and project demos
+
