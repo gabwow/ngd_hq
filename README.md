@@ -67,7 +67,7 @@ Breakfast
 
 Partnered code review
 
-Saturday 7pm, 11 floor conference room (Z1170):
+**Saturday 6pm**, 11 floor conference room (Z1170):
 
 Final code submission and project demos
 
