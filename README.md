@@ -30,6 +30,8 @@ This hackathon will feature:
 
 *Do I need to be there for all of this?*  No. This is as intense as you choose to make it. Ideally you'd be there at noon on Friday, but if you can't get there by then, we ask for you to be there at 6pm on Friday, just so everybody can get into a group. We also are strongly encouraging a 2pm partnered code-review. Ideally, this would be done in person, but if people want to do it through something like google hangout, that's fine too. 
 
+*What programming language will things be written in?* This event is language agnostic. That said, some of the APIs are not. For example, NVBio relies on CUDA. For the Saturday partnered code review, hopefully we can work out pairings that make sense, but don't let this concern be a deal breaker.
+
 That said, if you want to go all out, dinner and breakfast will be provided. 
 
 ## APIs (suggestions welcome):
