@@ -39,6 +39,7 @@ That said, if you want to go all out, dinner and breakfast will be provided.
 * [SeqPig](http://seqpig.sourceforge.net/)
 * [NVBio](https://github.com/NVlabs/nvbio)
 * [Adam](https://github.com/bigdatagenomics/adam)
+* [Guacamole](https://github.com/hammerlab/guacamole)
 
 ## Schedule
 **Friday 12 pm**, 11th floor conference room (Z1170):
